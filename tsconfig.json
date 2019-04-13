@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": true,
+    // 与 Vue 的浏览器支持保持一致
+    "target": "es5",
+    "module": "esNext",
+    "moduleResolution": "node",
+    "typeRoots": [
+      "node_modules/@types",
+      "src/typings"
+    ],
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "mapRoot": "./",
+    "paths": {
+      "@shared/*": [
+        "./shared/*"
+      ],
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "tests/**/*.ts",
+    "tests/**/*.tsx",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
