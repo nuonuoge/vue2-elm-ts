@@ -25,12 +25,6 @@ npm start
 
 此项目的所有接口数据都来源于配套的后台系统，[后台项目传送地址](https://github.com/bailicangdu/node-elm)。
 
-如果想体验前后台同时开发，可以下载后台系统。
-
-此时启动本项目的命令为：npm run local 而不是 npm run dev。
-
-同时我们也提供了基于`element-ui`搭建的[后台管理页面](https://github.com/bailicangdu/vue2-manage)
-
 如果只做前端开发，请忽略上面这几句话。
 
 
