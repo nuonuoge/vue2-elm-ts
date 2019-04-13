@@ -40,11 +40,11 @@ npm start
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
->  [项目交流群](https://gitter.im/vue2-elm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
 >  推荐一个 react + redux 开源项目，对react感兴趣的朋友赶紧去看看。[地址在这里](https://github.com/bailicangdu/react-pxq)
 
 >  另外一个 vue2 + vuex 的入门项目，比当前的项目简单很多，非常适合入门练习。[地址在这里](https://github.com/bailicangdu/vue2-happyfri)
+
+>  另外一个 ionic + angular 的入门项目。[地址在这里](https://github.com/nuonuoge/ionic4_angular6_elm)
 
 
 # 效果演示
