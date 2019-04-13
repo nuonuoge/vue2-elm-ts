@@ -48,9 +48,7 @@ npm start
 
 
 # 效果演示
-
-[查看demo请戳这里](http://cangdu.org/elm/)（请用chrome手机模式预览）
-
+暂无体验地址，，可以去vue-elm发布地址体验（请用chrome手机模式预览）
 ### 移动端扫描下方二维码
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="250" height="250"/>
