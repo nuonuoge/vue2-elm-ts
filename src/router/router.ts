@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import { RouterMode } from '../config/env';
-import App from '../App';
+import App from '../app';
 
 const home = () => import('../page/home/home');
 const city = () => import('../page/city/city');

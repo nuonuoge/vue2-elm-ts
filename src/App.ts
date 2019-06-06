@@ -1,6 +1,6 @@
 
 import { Component, Vue } from 'vue-property-decorator';
-import WithRender from './App.html?style=./App.scss';
+import WithRender from './app.html?style=./app.scss';
 import { SvgIcon } from './shared';
 
 @WithRender

@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import App from './App';
+import App from './app';
 import router from './router/router';
 import store from './store';
 import { Component } from 'vue-property-decorator';
