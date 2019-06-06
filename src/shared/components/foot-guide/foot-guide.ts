@@ -5,11 +5,8 @@ import { State } from 'vuex-class';
 @WithRender
 @Component
 export class FootGuide extends Vue {
-  @State('userInfo') stateUserInfo: any;
+  @State('geohash') geohash: any;
   gotoAddress(path) {
     this.$router.push(path);
-  }
-  get userInfo() {
-    return this.stateUserInfo;
   }
 }

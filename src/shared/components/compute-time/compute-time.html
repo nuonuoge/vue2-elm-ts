@@ -1,0 +1,6 @@
+<div class="page">
+  <span class="rem_time" style="color: orange;border-width: 1px;border-style: solid;border-color: orange;" @click="gotoPay">
+   {{remaining}}
+  </span>
+  <alert-tip v-if="showAlert" @closeTip="showAlert = false" :alertText="alertText"></alert-tip>
+</div>
