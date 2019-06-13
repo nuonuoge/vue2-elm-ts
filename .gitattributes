@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+*.ts linguist-language=TypeScript
+*.js linguist-language=TypeScript 
+*.html linguist-language=Vue
+*.scss linguist-language=Vue 
