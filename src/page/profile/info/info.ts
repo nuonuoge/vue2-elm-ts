@@ -6,7 +6,6 @@ import { Mutation, State } from 'vuex-class';
 import { signout } from '../../../service/getData';
 import { removeStore } from '../../../config/mUtils';
 
-
 @WithRender
 @Component({
   components: {
